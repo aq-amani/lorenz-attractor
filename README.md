@@ -4,7 +4,7 @@ A script to plot, animate, or generate frames for the Lorenz attractor using mat
 ## Example output
 
 <p align="center">
-  <img src="./readme_images/lorenz.gif" width="400" />
+  <img src="./readme_images/lorenz.gif" width="600"/>
 </p>
 
 
