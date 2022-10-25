@@ -1,6 +1,13 @@
 # About this project
 A script to plot, animate, or generate frames for the Lorenz attractor using matplotlib
 
+## Example output
+
+<p align="center">
+  <img src="./readme_images/lorenz.gif" width="400" />
+</p>
+
+
 ## :hammer_and_wrench: Setup/ Preparation
 ```bash
 pipenv install --ignore-pipfile --skip-lock --python 3.9
